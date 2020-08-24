@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import Typography from '@material-ui/core/Typography';
 import TodoForm from './TodoForm';
 import TodoList from './TodoList';
 import useTodoState from './useTodoState';
